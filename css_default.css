@@ -1,0 +1,72 @@
+body {
+	margin: 8px;
+}
+
+dl {
+	margin: 1em 0;
+}
+
+dd {
+	margin-left: 40px;
+}
+
+ol {
+	margin: 1em 0;
+	padding-left: 40px;
+}
+
+ul {
+	margin: 1em 0;
+	padding-left: 40px;
+}
+input[type=radio]{
+	margin: 3px 3px 0px 5px;
+}
+input{
+	border-width: 2px;
+	
+}
+input[type=text]{
+	padding: 1px 0;
+
+}
+
+input[type=submit]{
+	padding: 1px 6px;
+	box-sizing: border-box;
+}
+table{
+	border-space:2px;
+}
+button{
+	box-sizing: border-box;
+    padding: 2px 6px 3px;
+    border-width: 2px;
+}
+h1{
+	font-size:2em;
+	margin:0.67em 0;
+	
+}
+h2{
+	font-size:1.5em;
+	margin:0.83em 0;
+}
+h3{
+	font-size:1.17em;
+	margin:1em 0;
+}
+h4{
+	font-size:1em;
+	margin:1.33em 0;
+}
+h5{
+	font-size:0.83em;
+	margin:1.67em 0;
+	
+}
+h6{
+	font-size:0.67em;
+	margin:2.33em 0;
+}
+
