@@ -1,0 +1,67 @@
+body,
+dl,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+}
+
+p,
+button {
+	padding: 0;
+}
+
+ol,
+ul,
+input,p {
+	margin: 0;
+	padding: 0;
+}
+
+ol,
+ul {
+	list-style: none;
+}
+
+input {
+	box-sizing: content-box;
+	border-style: solid;
+	border-width: 1px;
+	background-color: white;
+	outline: none;
+}
+
+
+table {
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+button {
+	border-width: 1px;
+	border-style: solid;
+	outline: none;
+	background-color: white;
+}
+
+i {
+	font-style: normal;
+	display: inline-block;
+}
+
+
+/*兼容性处理*/
+
+aside,
+footer,
+header,
+hgroup,
+main,
+nav,
+section {
+	display: block;
+}
