@@ -17,7 +17,7 @@ button {
 
 ol,
 ul,
-input,p {
+input{
 	margin: 0;
 	padding: 0;
 }
@@ -32,7 +32,7 @@ input {
 	border-style: solid;
 	border-width: 1px;
 	background-color: white;
-	outline: none;
+	
 }
 
 
@@ -44,7 +44,7 @@ table {
 button {
 	border-width: 1px;
 	border-style: solid;
-	outline: none;
+
 	background-color: white;
 }
 
